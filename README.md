@@ -36,6 +36,7 @@ Software Components:
 7. ESP32 Sensor Libraries
 
 Current Status:
+
 Ongoing development and architecture planning phase.
 
  Future Scope:
