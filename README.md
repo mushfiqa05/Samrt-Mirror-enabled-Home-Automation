@@ -35,4 +35,14 @@ Software Components:
 6. JSON
 7. ESP32 Sensor Libraries
 
+Current Status:
+Ongoing development and architecture planning phase.
+
+ Future Scope:
+- Voice command integration
+- AI assistant features
+- Face recognition
+- Smart scheduling system
+- Mobile app connectivity
+
 Overall, the integration of IoT technologies with intuitive interfaces such as smart mirrors represents a promising direction for next-generation smart home systems, offering improved usability, efficiency, and intelligent automation for modern living environments.
